@@ -9,3 +9,6 @@ __pycache__/
 Build/
 *.log
 mydata
+*.pem
+*.bin
+*.fcs4
