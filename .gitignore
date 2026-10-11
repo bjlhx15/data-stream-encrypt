@@ -1,0 +1,11 @@
+# IDE 相关文件
+.idea/
+.vscode/
+*.iml
+.venv
+
+# 编译输出目录
+__pycache__/
+Build/
+*.log
+mydata
